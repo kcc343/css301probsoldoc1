@@ -1,5 +1,8 @@
 # css301probsoldoc1
-Images Credited:
+
+Email Newsletter HTML base by [WiUX December 2019 Newsletter](https://mailchi.mp/c1c92650f52d/back-to-school-welcome-from-wiux-1215119?e=1f7ccf6baf) made by Women in User Experience[WiUX](https://students.washington.edu/wiux/) club at UW
+
+Image Credits:
 
 Background [Photo](https://www.pexels.com/photo/photo-of-person-typing-on-computer-keyboard-735911/) for Header by Soumil Kumar from Pexels
 
